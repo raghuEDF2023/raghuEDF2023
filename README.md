@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @raghuEDF2023
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on AI & ML
+- 📫 How to reach me Raghunath.Bhattacharjee@edfeenergy.com
